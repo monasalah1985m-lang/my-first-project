@@ -5,5 +5,5 @@ elif grade >= 70:
   print ("جيد جدا")
 elif grade >= 50:
    print("مبروك نجحت")
-elif:
+else
    print("معلش حاول تاني انتا قدها")
